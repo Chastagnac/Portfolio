@@ -1,0 +1,19 @@
+body {
+    background-image: url("../assets/images/Background.png");
+    background-repeat: repeat;
+    --interval-width: 150px;
+    background-size: var(--interval-width) auto;
+    background-position: calc(50% - var(--interval-width)/2) -1px;
+}
+
+* {
+    margin:0;
+    padding: 0;
+}
+
+.logo{
+    align-content: center;
+}
+
+
+
