@@ -148,7 +148,16 @@ body {
     padding-left: 100px;
 }
 
+/* fleche */
+
+.fleche{
+    display: contents;
+}
+
+
 /* Section 3 */
+
+
 .sec-3{
 
     padding-top: 500px;

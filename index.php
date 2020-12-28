@@ -13,7 +13,6 @@ and open the template in the editor.
         <script src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.12.1/rellax.min.js"></script>
     </head>
     <body>
-
         <section id="sec-1">
             <div class="container">
                 <div class="imgMove1" data-rellax-speed="2">
