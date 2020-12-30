@@ -64,8 +64,8 @@ body {
 }
 .img2 {
   filter: blur(1px);
-  width: 100px;
-  height: 90px;
+  width: 150px;
+  height: 150px;
   margin-right: 180px;
   animation-name: animFloat;
   animation-duration: 17s;
